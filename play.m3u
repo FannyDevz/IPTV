@@ -987,12 +987,10 @@ http://ogietv.biz.id:80/play/jgxoZ3MtSPv4P-o_RxawFxk2DdUrAzs21LfVHTZuIsk/ts
 http://ogietv.biz.id:80/play/jgxoZ3MtSPv4P-o_RxawF7Z-aCXn-XnA9wnljctFOy4/ts
 #EXTINF:-1 xui-id="31907" tvg-id="" tvg-name="Zoomoo" tvg-logo="http://ogietv.biz.id:80/images/QCqX5p5x3Y181Q8jwb82JHWEVKwu9SJ_1leUVWmuEmqhGVDaQqgdEQSA_PHElHFg.png" group-title="KIDS",Zoomoo
 http://ogietv.biz.id:80/play/jgxoZ3MtSPv4P-o_RxawFzdVIasy0qTkDuaDsujmd6I/ts
-#EXTINF:-1 xui-id="1322" tvg-id="SCTV.MACAN" tvg-name="SCTV HD" tvg-logo="http://ogietv.biz.id:80/images/QCqX5p5x3Y181Q8jwb82JG_X5i50inVa1ykRsQqCo2QYsICWUEo0YVeJVwm75wTo.png" group-title="LOKAL",SCTV HD
-http://ogietv.biz.id:80/play/jgxoZ3MtSPv4P-o_RxawF3_J7_Ga6ZfKFMsbgGak6Sc/ts
+
 #EXTINF:-1 xui-id="1324" tvg-id="SCTV.MACAN" tvg-name="SCTV FHD" tvg-logo="http://ogietv.biz.id:80/images/QCqX5p5x3Y181Q8jwb82JG_X5i50inVa1ykRsQqCo2QYsICWUEo0YVeJVwm75wTo.png" group-title="LOKAL",SCTV FHD
 http://ogietv.biz.id:80/play/jgxoZ3MtSPv4P-o_RxawF1TWQul247yDwwGHN9WOYi0/ts
-#EXTINF:-1 xui-id="1325" tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR HD" tvg-logo="http://ogietv.biz.id:80/images/QCqX5p5x3Y181Q8jwb82JCQ5zweoexyCh_9Dpf5f-IevZzgASDx5Fn-khv0LawOb.png" group-title="LOKAL",INDOSIAR HD
-http://ogietv.biz.id:80/play/jgxoZ3MtSPv4P-o_RxawFzfuHN3C124viX-tNfwx0jU/ts
+
 #EXTINF:-1 xui-id="1327" tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR FHD" tvg-logo="http://ogietv.biz.id:80/images/QCqX5p5x3Y181Q8jwb82JCQ5zweoexyCh_9Dpf5f-IevZzgASDx5Fn-khv0LawOb.png" group-title="LOKAL",INDOSIAR FHD
 http://ogietv.biz.id:80/play/jgxoZ3MtSPv4P-o_RxawF8d6IgM0qGoBi0kBnckuQyw/ts
 #EXTINF:-1 xui-id="12814" tvg-id="" tvg-name="wc 02" tvg-logo="" group-title="tester",wc 02
