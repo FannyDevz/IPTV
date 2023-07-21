@@ -1,1 +1,8 @@
-untuk backup disini
+ini bisa tapi di hapus saja soalnya ada yang lebih hd
+#EXTINF:-1 xui-id="1313" tvg-id="Trans7.MACAN" tvg-name="TRANS7 HD" tvg-logo="http://ogietv.biz.id:80/images/QCqX5p5x3Y181Q8jwb82JHczDMa4iJCO6OxGHsL2Z_E3MZfk6KnbTWXnHyBV6CwB.png" group-title="LOKAL",TRANS7 HD
+http://ogietv.biz.id:80/play/jgxoZ3MtSPv4P-o_RxawFwoqH58jJtegGn09ykuN9_Y/ts
+#EXTINF:-1 xui-id="1316" tvg-id="RCTI.MACAN" tvg-name="RCTI HD" tvg-logo="http://ogietv.biz.id:80/images/QCqX5p5x3Y181Q8jwb82JByjKZTB27GwV2rOw3ueMmB7pz1p4C8MuAZ6DASyRkkJ.png" group-title="LOKAL",RCTI HD
+http://ogietv.biz.id:80/play/jgxoZ3MtSPv4P-o_RxawF_3QT7ibaUcJaib6EdZeFlc/ts
+
+
+yang ini memang tidak bisa
